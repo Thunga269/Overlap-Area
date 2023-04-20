@@ -1,4 +1,4 @@
 # Detectron2:
-Object detecction
-Object segmentation
-Human Keypoint
+- Object detecction
+- Object segmentation
+- Human Keypoint
